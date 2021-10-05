@@ -1,0 +1,15 @@
+{
+  "course": "ECE17"
+  "term"  : "FA21",
+  "due_date"           : "Monday Sep. 27, 11:30p",
+  "assignment"         : 0,
+  "total_effort_hours" : 0,
+  "students": [
+    {
+      "name " : "Your Name",
+      "pid"   : "Your StudentId",
+      "email" : "Your Email",
+      "os"    : "windows|mac|linux",
+    }
+  ]
+}

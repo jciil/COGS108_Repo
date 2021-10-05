@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "compile",
+      "setup": "make",
+      "run": "./pa1 compile",
+      "input": "",
+      "output": "compile test: PASS",
+      "comparison": "included",
+      "timeout": 4,
+      "points": 25
+    },
+    {
+      "name": "cards",
+      "setup": "make",
+      "run": "./pa1 cards",
+      "input": "",
+      "output": "cards test: PASS",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 25
+    },
+    {
+      "name": "hand",
+      "setup": "make",
+      "run": "./pa1 hand",
+      "input": "",
+      "output": "hand test: PASS",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 25
+    },
+    {
+      "name": "deck",
+      "setup": "make",
+      "run": "./pa1 deck",
+      "input": "",
+      "output": "deck test: PASS",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 25
+    }
+  ]
+}
